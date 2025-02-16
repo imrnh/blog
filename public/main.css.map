@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/mnt/c/Users/muimr/OneDrive/Personals/Documents/Myself/Website/blog/imransnote",
+	"sourceRoot": "/mnt/c/Users/muimr/OneDrive/Personals/Documents/Myself/Website/blog",
 	"sources": [
 		"node_modules/@thulite/doks-core/assets/scss/app.scss",
 		"node_modules/bootstrap/scss/_functions.scss",
