@@ -1,1 +1,35 @@
-// Put your custom SCSS code here
+// .navbar-nav{
+//   // align-items: flex-end;
+//   // align-self: flex-end;
+//   justify-items: flex-end;
+//   justify-content: flex-end;
+// }
+
+
+@media (min-width: 992px) {
+  .navbar-nav {
+    justify-content: flex-end;
+  }
+  .offcanvas-body{
+    padding-right: 20px;
+  }
+}
+
+
+.nav-link {
+  // color: black !important;
+  font-size: 1rem; /* Adjust as needed */
+}
+
+
+#searchToggleDesktop svg,
+#buttonColorMode svg {
+    width: 18px;  /* Adjust size as needed */
+    height: 18px;
+}
+
+#searchToggleDesktop,
+#buttonColorMode {
+    padding-left: 15px;
+    padding-right: 15px;
+}

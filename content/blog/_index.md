@@ -17,3 +17,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
 ---
+
+
+<a href="/categories/">Categories</a>,
+<a href="/tags/">Tags</a>

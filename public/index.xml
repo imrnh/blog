@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome back to Doks on My Docs</title>
+    <title>Primary site on Imran Hossen Nahid</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome back to Doks on My Docs</description>
+    <description>Recent content in Primary site on Imran Hossen Nahid</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Thu, 07 Sep 2023 17:19:07 +0200</lastBuildDate>
+    <copyright>Copyright (c) 2025 Imran Hossen</copyright>
+    <lastBuildDate>Thu, 07 Sep 2023 16:27:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graph Neural Network</title>
-      <link>http://localhost:1313/graph-neural-network-for-connections/</link>
+      <link>http://localhost:1313/blog/graph-neural-network/</link>
       <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>http://localhost:1313/graph-neural-network-for-connections/</guid>
+      <guid>http://localhost:1313/blog/graph-neural-network/</guid>
       <description>You can use blog posts for announcing product updates and features.</description>
     </item>
     <item>
       <title>Hopfield Network</title>
-      <link>http://localhost:1313/hopfiled-network/</link>
+      <link>http://localhost:1313/blog/hopfield-network/</link>
       <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>http://localhost:1313/hopfiled-network/</guid>
+      <guid>http://localhost:1313/blog/hopfield-network/</guid>
       <description>You can use blog posts for announcing product updates and features.</description>
     </item>
     <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy/</link>
-      <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
-      <description></description>
+      <title>How brain works</title>
+      <link>http://localhost:1313/blog/how-brain-works/</link>
+      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
+      <guid>http://localhost:1313/blog/how-brain-works/</guid>
+      <description>You can use blog posts for announcing product updates and features.</description>
     </item>
     <item>
-      <title>My page title</title>
-      <link>http://localhost:1313/how-human-brain-works/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-human-brain-works/</guid>
-      <description>&lt;p&gt;Page content follows the second &lt;code&gt;---&lt;/code&gt;.&lt;/p&gt;</description>
+      <title>Human Memory Post</title>
+      <link>http://localhost:1313/blog/human-memory-post/</link>
+      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
+      <guid>http://localhost:1313/blog/human-memory-post/</guid>
+      <description>You can use blog posts for announcing product updates and features.</description>
     </item>
   </channel>
 </rss>
