@@ -44,7 +44,7 @@ seo:
           </div>
           <div class="Box-sc-1wo68lt-0 hxajkw d-flex flex-column align-items-center text-center">
             <div class="Social__SocialContainer-sc-mi43k2-0 Social___StyledSocialContainer-sc-mi43k2-1 dnqeYF d-flex test classname" color="bg" >
-              <a rel="noopener noreferrer" style="margin-left: 20px; margin-right: 20px;">
+              <a href="mailto:mu.imran2002@gmail.com" rel="noopener noreferrer" style="margin-left: 15px; margin-right: 15px;">
                 <div class="social-icon copy-tooltip">
                   <span class="Social___StyledSpan-sc-mi43k2-2 gPqjXD">
                     <!-- <span class="tooltiptext" id="copy-tooltip">mu.imran2002@gmail.com</span> -->
@@ -54,7 +54,7 @@ seo:
                   </span>
                 </div>
               </a>
-              <a href="https://www.linkedin.com/in/wisaroot/" target="_blank" rel="noopener noreferrer" style="margin-left: 20px; margin-right: 20px;">
+              <a href="https://www.linkedin.com/in/imrnh/" target="_blank" rel="noopener noreferrer" style="margin-left: 15px; margin-right: 15px;">
                 <div class="social-icon">
                   <span class="Social___StyledSpan2-sc-mi43k2-3 jmnIiE">
                     <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -63,7 +63,7 @@ seo:
                   </span>
                 </div>
               </a>
-              <a href="https://github.com/wisarootl" target="_blank" rel="noopener noreferrer" style="margin-left: 20px; margin-right: 20px;">
+              <a href="https://github.com/imrnh/" target="_blank" rel="noopener noreferrer" style="margin-left: 15px; margin-right: 15px;">
                 <div class="social-icon">
                   <span class="Social___StyledSpan3-sc-mi43k2-4 dyqUrG">
                     <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 496 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -82,6 +82,7 @@ seo:
 <section class="research_interest_chip">
 <div class="chip_holder">
   <div class="chip_item">Explainable AI</div>
+    <div class="chip_item">Generative AI</div>
   <div class="chip_item">Latent Diffusion</div>
   <div class="chip_item">Text to Speech</div>
   <div class="chip_item">Drug Discovery</div>
