@@ -14572,8 +14572,7 @@ body {
   /* Adjust as needed */ }
 
 .nav-item, .banner .nav li {
-  margin-left: 15px;
-  margin-right: 15px; }
+  margin-left: 20px; }
 
 #searchToggleDesktop svg,
 #buttonColorMode svg {

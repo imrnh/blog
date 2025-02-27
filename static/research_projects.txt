@@ -1,0 +1,23 @@
+Name: Long Short-Term Memory (LSTM)
+Description: A specialized recurrent neural network for processing sequential data.
+
+Name: Convolutional Neural Network
+Description: Deep learning architecture inspired by the visual cortex, excellent for image processing.
+
+Name: Transformer Network
+Description: State-of-the-art architecture using self-attention mechanisms for NLP tasks.
+
+Name: Restricted Boltzmann Machine
+Description: A generative stochastic neural network that learns probability distribution.
+
+Name: Autoencoder
+Description: Neural network architecture for learning efficient data encodings unsupervised.
+
+Name: Deep Belief Network
+Description: Composed of multiple layers of latent variables with connections between layers.
+
+Name: Radial Basis Function Network
+Description: Uses radial basis functions as activation functions for pattern recognition.
+
+Name: Self-Organizing Map
+Description: Creates low-dimensional representation of input space using competitive learning.

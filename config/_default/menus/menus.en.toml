@@ -34,9 +34,14 @@
 #  weight = 10
 
 [[main]]
-  name = "Publication"
-  url = "/publication/"
+  name = "Research"
+  url = "/research/"
   weight = 10
+
+#[[main]]
+#  name = "Publication"
+#  url = "/publication/"
+#  weight = 15
 
 [[main]]
   name = "Project"
@@ -55,10 +60,10 @@
 #  weight = 20
 
 
-[[main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 100
+#[[main]]
+#  name = "Contact"
+#  url = "/contact/"
+#  weight = 100
 
 
 
